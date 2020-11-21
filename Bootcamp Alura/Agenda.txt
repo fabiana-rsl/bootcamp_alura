@@ -1,0 +1,20 @@
+Módulo 01 : Python e Pandas para análise de Dados reais
+
+04/11/2020 – Liberação dos Materiais
+11/11/2020 – Live: Revisão das Monitorias - 18h30
+12/11/2020 - Cafezinho: Cafezinho com Área Acadêmica da Alura - Como estudar melhor? - 18h30
+17/11/2020 – Live: Mercado e Carreira - 17h30
+18/11/2020 – Live: Revisão das Monitorias - 18h30
+22/11/2020 – Data Limite para submissão do Projeto (para revisão na Live)
+24/11/2020 – Live: Revisão de Projetos Selecionados - 18h30
+
+
+
+Módulo 02 : Visualização de dados com Seaborn e Matplotlib
+
+18/11/2020 – Liberação dos Materiais
+25/11/2020 – Live: Revisão das Monitorias - 18h30
+01/12/2020 – Live: Mercado e Carreira - 17h30
+02/12/2020 – Live: Revisão das Monitorias - 18h30
+06/12/2020 – Data Limite para submissão do Projeto (para revisão na Live)
+08/12/2020 – Live: Revisão de Projetos Selecionados - 18h30
